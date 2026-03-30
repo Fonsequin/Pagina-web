@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.iosevka-charon-mono-regular {
+  font-family: "Iosevka Charon Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-image: url(https://deadbydaylight.com/static/a5cdc5db3804f817df112184c81f5ead/93f85/dbd-gallery-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1950px 1100px;
+    background-position: center center;
+}
+
+.recuadro{
+    margin: 140px 700px;
+    padding: 15px;
+    background-image: url(https://img.freepik.com/vector-gratis/ilustracion-pared-ladrillo-negro-noche-textura-fachada-mamposteria-blanco-grunge_575670-269.jpg?semt=ais_incoming&w=740&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 466px;
+    height: 610px;
+    border-radius: 5%;
+}
+
+.cuadro{
+    margin: 5px;
+    padding: 15px;
+    width: 35% 2%;
+    height: 570px;
+    border-radius: 5%;
+    background-image: url(https://media.discordapp.net/attachments/550737646431764488/1488307914715168810/image.png?ex=69cc4e42&is=69cafcc2&hm=a4ce1f3c14ea4d58df6f0e2526e7686252e646316731c59c24d25cbf80d5a7a8&=&format=webp&quality=lossless);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.imagen{
+    background-image: url(https://media.discordapp.net/attachments/550737646431764488/1488307230200828004/S01_DwightFairfield_Portrait.png?ex=69cc4d9f&is=69cafc1f&hm=fb41d8749587e4963aeb3cf0546b8283740b4019bd5be70494e03f26d101c033&=&format=webp&quality=lossless);
+    background-repeat: no-repeat;
+    background-size: 350px 360px;
+    background-position: 55px 50px;
+}
